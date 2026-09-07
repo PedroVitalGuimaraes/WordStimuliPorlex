@@ -1,4 +1,4 @@
-# Lexical Stimuli Selection from Porlex v3
+# Lexical Stimuli Selection from Porlex
 
 A Python script to select and organize words drawn from the **Porlex v3** lexical database (Gomes, Castro, Lima & Mesquita, 2019).
 
@@ -56,7 +56,7 @@ python select_stimuli.py
 
 ## Data source
 
-Gomes, I., Castro, S. L., Lima, C. F., & Mesquita, A. B. (2019). *Porlex v3, uma base lexical do Português*. Speech Laboratory, FPCE-UP.
- https://sigarra.up.pt/fpceup/pt/web_base.gera_pagina?p_pagina=NCL_DATABASES
- https://projetoler.pt/texto/porlex
+Gomes, I., Castro, S. L., Lima, C. F., & Mesquita, A. B. (2019). *Porlex v3, uma base lexical do Português*. FPCE-UP. \
+https://sigarra.up.pt/fpceup/pt/web_base.gera_pagina?p_pagina=NCL_DATABASES \
+https://projetoler.pt/texto/porlex
 
